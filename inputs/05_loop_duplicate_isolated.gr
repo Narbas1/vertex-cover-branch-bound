@@ -1,0 +1,9 @@
+c Graph with a loop, duplicate edge, and an isolated vertex 5
+c Loop 1 1 forces vertex 1 into the cover
+c Edge 2 3 appears twice, but it is the same undirected edge for this solver
+p td 5 5
+1 1
+1 2
+2 3
+2 3
+4 5

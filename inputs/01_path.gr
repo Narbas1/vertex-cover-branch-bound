@@ -1,0 +1,5 @@
+c Simple path: 1 -- 2 -- 3
+c Optimal answer size is 1: {2}
+p td 3 2
+1 2
+2 3

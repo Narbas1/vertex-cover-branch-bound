@@ -1,0 +1,10 @@
+c Disconnected graph with one isolated vertex 6
+c Components:
+c 1 -- 2 -- 3
+c 4 -- 5
+c 6 is isolated
+c Optimal answer size is 2, for example {2, 4}
+p td 6 3
+1 2
+2 3
+4 5

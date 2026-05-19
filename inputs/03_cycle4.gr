@@ -1,0 +1,7 @@
+c Cycle with 4 vertices
+c Optimal answer size is 2
+p td 4 4
+1 2
+2 3
+3 4
+4 1

@@ -1,0 +1,6 @@
+c Triangle graph
+c Optimal answer size is 2
+p td 3 3
+1 2
+2 3
+1 3
